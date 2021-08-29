@@ -6,7 +6,8 @@ Brian  (idislikebrian)  [Twitter]()  || [LinkedIn]()
 Karina  (karinaraf)  [Twitter]()  || [LinkedIn]()  
 Matt  (flanman) [Twitter]()  || [LinkedIn]()  
 
-tl;drL 
+###tl;dr
+A token gated special guest series where the FWB community PartyBids on their most desired speakers for a multimedia live event.  
 
 ###Abstract
 We're excited to introduce HotTakes<sup>TM</sup>, a special guest speaker series curated by the FWB community. The motivation behind this project is simple, how do we introduce more interesting people and communities to FWB while highlighting and leveraging the existing network and infrastructure FWB provides?  
