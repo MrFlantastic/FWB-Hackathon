@@ -33,7 +33,54 @@ Token Holders will be able to connect their wallets to join a token-gated Discor
 ### The Event
 1-hour long conversation with the speaker of choice and chosen members of the newly formed DAO moderated by Derek. After having a say in structure, topics and questions beforehand, token holders will be shown in "the front row" and have their questions answered first during the Q&A session. During the call, non-token holding attendees will have the opportunity to purchase tokens from a pool set aside by the speaker for any others who missed the PartyBid.  
 
+While hosted on the FWB programming and servers, the event will be run on the Cadenza plaftorm, a new tool which we think has a lot of the functionality needed to stand this project up. 
+#### Cadenza
+![](../../../Downloads/cadenza/Cadenza Onboarding 7.26.21_Page_11.jpg)
+1. **Event Library** 
+   * dashboard with past, upcoming, and live events
+   
+![](../../../Downloads/cadenza/Cadenza Onboarding 7.26.21_Page_12.jpg)
+![](../../../Downloads/cadenza/Cadenza Onboarding 7.26.21_Page_14.jpg)
+![](../../../Downloads/cadenza/Cadenza Onboarding 7.26.21_Page_13.jpg)
+2. **Run-of-Show** -
+   * Drag-and-drop segment types into the timeline
+   * Supported segment types:
+     * Live webcam
+       * pulls in speaker's webcam feed
+     * Pre-recorded video
+       * upload a video that will automatically play when in timeline
+     * Third-Party video feed
+       * pull in a third party livestream into the feed
+     * Autosaving
+       * Any progress while building out Run-of-Show will be automatically saved  
+
+![](../../../Downloads/cadenza/Cadenza Onboarding 7.26.21_Page_15.jpg)
+3. **Studio**
+   * Start and end livestream
+   * Greenroom![](../../../Downloads/cadenza/Cadenza Onboarding 7.26.21_Page_16.jpg)
+     * see and converse with active speakers
+     * mute/unmute, camera on/off, share screen
+   * Run-of-show
+     * click on an a segment to activate it within the program feed (override)
+   * Program Feed![](../../../Downloads/cadenza/Cadenza Onboarding 7.26.21_Page_17.jpg)
+     * displays the livestream feed that all attendees will see on the Event Page
+
+![](../../../Downloads/cadenza/Cadenza Onboarding 7.26.21_Page_18.jpg)
+4. **Speaker Management**
+   * Invite speakers to event
+
+![](../../../Downloads/cadenza/Cadenza Onboarding 7.26.21_Page_19.jpg)
+5. **Event Page**
+   * Public and private event types
+     * Public
+       * Can be ticketed events or free
+     * Private
+       * Must be accessed via access code / tokengating
+     * Chat / Q&A
+     * Replay video recordings after event ends
+
+
 ### The Greenroom
-At the end of the event, token holders will have access to a 30-minute "Greenroom" extended Q&A session with the speaker. This 
+At the end of the event, token holders will have access to a 30-minute "Greenroom" extended Q&A session with the speaker. This gives token
 
 ### The Future
