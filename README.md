@@ -31,7 +31,9 @@ As previously mentioned, collaboration will be key for the early days of HotTake
 Token Holders will be able to connect their wallets to join a token-gated Discord server dedicated to their upcoming event. This server will be the first chance token holders will have to interact with each other and their future speaker. Token weighted governance protocols can be used to determine everything from what topics they want to be covered to who else will join their speaker on stage.
 
 ### The Event
-1-hour long conversation with the speaker of choice and chosen members of the newly formed DAO moderated by Derek. During the call, non-token holding attendees will have the opportunity to purchase tokens from a pool set aside by the speaker for any others who missed the PartyBid. They will be 
+1-hour long conversation with the speaker of choice and chosen members of the newly formed DAO moderated by Derek. After having a say in structure, topics and questions beforehand, token holders will be shown in "the front row" and have their questions answered first during the Q&A session. During the call, non-token holding attendees will have the opportunity to purchase tokens from a pool set aside by the speaker for any others who missed the PartyBid.  
 
 ### The Greenroom
+At the end of the event, token holders will have access to a 30-minute "Greenroom" extended Q&A session with the speaker. This 
 
+### The Future
