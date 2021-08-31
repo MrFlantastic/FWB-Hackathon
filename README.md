@@ -7,14 +7,15 @@ Karina  (karinaraf)
 Matt  (flanman) 
 
 ### tl;dr  
-A token gated special guest series where the FWB community PartyBids on crowdsourced speakers for a multimedia live event NFT. A DAO forms around the NFT with creator/speaker interaction. Intimate experience with creators and their community, also allows audience members to not only hold the multimedia NFT as a curative piece, but collectively shape the event itself. WIth simple DAO governance tools, the audience can crowdsource the best questions for the Q&A session, even elect 3rd and 4th chair seats to the most engaged users in the token-gated Discord channel. Gives creators and their fans an experience and canvas to congregate and collaborate. 
+A token gated special guest series where the FWB community PartyBids on NFTs to schedule speaking events in a crowdsourced and democratic way. Once the reserve price is met, a DAO forms between the speaker and their prospective audience. These commemorative multimedia tokens exist as curative pieces in any NFT collection but also serve as keys to an intimate experience between creators and their community. WIth simple DAO governance tools, the audience can crowd source the best questions for the Q&A session, even elect 3rd and 4th chair seats to the most engaged users in the token-gated Discord channel. Most importantly, it gives creators and their fans an experience and canvas to congregate and collaborate. 
 
 ### Abstract  
 We're excited to introduce For Here<sup>TM</sup> , a special guest speaker series curated by the FWB community. The motivation behind this project is simple, how do we introduce more interesting people and communities to FWB while highlighting and leveraging the existing network and infrastructure FWB provides?  
 
 The schedule of For Here<sup>TM</sup> events will be curated and marketed by minting NFTs on the Zora marketplace to announce future guests. By scheduling and collaboarting with artists beforehand, we can come up with performance KPIs to measure how well they engage with their current audience and bring in capital to the ParyBid (affiliate links, etc.) a signal of interest. This could be an interesting lever experimenting with how to best incentivize creators with larger pools of the initial $ToGo Tokens. These stipulations could certainly be writen into the formation contracts for DAO treasuries:
 
-- _Initial reserve price set:_ 1 ETH (those eager to speak could set the floor as low as 0.1 ETH)
+- Winning the monthly nomination from the Pulse Dashboard triggers the outreach process and negotiation for the reserve price of the NFT. Reserve price (5% PartyBid Fee, 5% 
+- Initial reserve price set:_ 1 ETH (those eager to speak could set the floor as low as 0.1 ETH)
 - 
 
 Combining Zora and PartyBid protocols, audiences will be able to come together to collectively bid on an NFT representing a future speaking engagement to incentivize their favorite artists/creators to come and participate with the community in the auction and resulting DAO. If the reserve price is met, ownership of the NFT is passed to the members of this newly formed DAO, where they can join a token-gated Discord channel to interact with the speaker and other event organizers to curate the live event to be structured in the way they want.
@@ -49,7 +50,7 @@ To keep up with PartyDAO, follow [@prtyDAO](https://twitter.com/prtyDAO) on Twit
 Once the reserve price is met (covering FWB overhead costs, PartyBid platform fee, speaker fee, etc.), the bid will be placed. If the auction is won, any contributor can return to claim their "$TOGO" tokens, relative to the amount contributed. If the reserve price isn't met, or another DAO collectively outbids the PartyBid, any contributors can return and reclaim the ETH they contributed.  
 
 As previously mentioned, collaboration will be key for the early days of HotTakes. While this crowdfunding mechanism can be a powerful tool to attract guests, it'll be important to have precommited speakers who are willing to participate in the DAO with their excited future audience members.
-We would like to open up to the FWB community for a list of nominees which will be voted on in the Coffee Time channel using a tool similar to Sesh:
+We would like to open up to the FWB community for a list of nominees.
 
 ### The DAO
 Token Holders will be able to connect their wallets to join a token-gated Discord server dedicated to their upcoming event. This server will be the first chance token holders will have to interact with each other and their future speaker. Token weighted governance protocols can be used to determine everything from what topics they want to be covered to who else will join their speaker on stage.
