@@ -14,11 +14,15 @@ We're excited to introduce For Here<sup>TM</sup> , a special guest speaker serie
 
 The schedule of For Here<sup>TM</sup> events will be curated and marketed by minting NFTs on the Zora marketplace to announce future guests. By scheduling and collaboarting with artists beforehand, we can come up with performance KPIs to measure how well they engage with their current audience and bring in capital to the ParyBid (affiliate links, etc.) a signal of interest. This could be an interesting lever experimenting with how to best incentivize creators with larger pools of the initial $ToGo Tokens. These stipulations could certainly be writen into the formation contracts for DAO treasuries:
 
-- Winning the monthly nomination from the Pulse Dashboard triggers the outreach process and negotiation for the reserve price of the NFT. Reserve price (5% PartyBid Fee, 5% 
-- Initial reserve price set:_ 1 ETH (those eager to speak could set the floor as low as 0.1 ETH)
-- 
+- Winning the monthly nomination from the FWB community triggers the outreach process and negotiation for the reserve price of the NFT. Reserve price must cover  5% PartyBid Fee, 5% FWB fees, with the remaining 90% of capital raised to be divided amongst the DAO.
+- Terms negotiated for might include: up front pre-token % fee, size of allocation once NFT auction is complete
+- Example terms
+  - **Initial reserve price set**: 1 ETH (_those eager to speak could set the floor as low as 0.1 ETH_)
+  - **Affiliate link sign-up**: awarded pre-token fee 1-5% // 0 - 150 people
+  - **Total sign ups**: gifted 25-50% of tokens // 0 - 300 people
+  
 
-Combining Zora and PartyBid protocols, audiences will be able to come together to collectively bid on an NFT representing a future speaking engagement to incentivize their favorite artists/creators to come and participate with the community in the auction and resulting DAO. If the reserve price is met, ownership of the NFT is passed to the members of this newly formed DAO, where they can join a token-gated Discord channel to interact with the speaker and other event organizers to curate the live event to be structured in the way they want.
+Using the PartyBid protocols, audiences will be able to come together to collectively bid on an NFT representing a future speaking engagement to incentivize their favorite artists/creators to come and participate with the community in the auction and resulting DAO. If the reserve price is met, ownership of the NFT is passed to the members of this newly formed DAO, where they can join a token-gated Discord channel to interact with the speaker and other event organizers to curate the live event to be structured in the way they want.
 
 The live event will be a conversation between the special guest and the portion of the audience collectively represented as $ToGo token holders of the organizing DAO, some of whom may even be on stage as 3rd chair with Derek, current host of FWB Coffee Time, moderating. After the predetermined time has expired, $ToGo token holders will have acess 
 
