@@ -65,10 +65,11 @@ Token Holders will be able to connect their wallets to join a token-gated Discor
 While hosted on the FWB programming and servers, the event will be run on the Cadenza plaftorm, a new tool which we think has a lot of the functionality needed to stand this project up. 
 
 #### Cadenza
+![img_4.png](img_4.png)
 1. **Event Library** 
    * dashboard with past, upcoming, and live events
    
-
+![img_5.png](img_5.png)
 2. **Run-of-Show** -
    * Drag-and-drop segment types into the timeline
    * Supported segment types:
@@ -80,18 +81,21 @@ While hosted on the FWB programming and servers, the event will be run on the Ca
        * pull in a third party livestream into the feed
      * Autosaving
        * Any progress while building out Run-of-Show will be automatically saved  
-
+![img_6.png](img_6.png)
 3. **Studio**
    * Start and end livestream
      * see and converse with active speakers
      * mute/unmute, camera on/off, share screen
+   ![img_7.png](img_7.png)
    * Run-of-show
      * click on an a segment to activate it within the program feed (override)
      * displays the livestream feed that all attendees will see on the Event Page
 
+![img_9.png](img_9.png)
 4. **Speaker Management**
    * Invite speakers to event
 
+![img_8.png](img_8.png)
 5. **Event Page**
    * Public and private event types
      * Public
