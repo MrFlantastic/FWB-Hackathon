@@ -25,7 +25,7 @@ The live event will be a conversation between the special guest and the portion 
 ### Pulse Dashboard
   ![img_1.png](img_1.png)
   
-This built within the Pulse dashboard, here we can see a snippet of what it would look like during the sourcing stage. We would like to open up to the FWB community for a list of nominees which will be voted on in the Coffee Time channel using a tool similar to Sesh:.  speaker proposal receiving the highest number of votes will be chosen as next month's guest, setting off the marketing operation of this product.
+The speaker proposal process begins within the Pulse dashboard, here we can see a snippet of what it would look like during the sourcing stage. We would like to open up to the FWB community for a list of nominees which will be voted on in the Coffee Time channel using a tool similar to Sesh:.  speaker proposal receiving the highest number of votes will be chosen as next month's guest, setting off the marketing operation of this product.
 
 Early partnership with the members of FWB will be critical for this first cohort of guests.
 # The NFT
